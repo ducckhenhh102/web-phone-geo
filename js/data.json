@@ -1,0 +1,459 @@
+[
+  {
+    "id": "iphone-15-pro-max",
+    "name": "iPhone 15 Pro Max",
+    "brand": "Apple",
+    "price": 34990000,
+    "currency": "VND",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+    "description": "Chiếc iPhone mạnh mẽ nhất với khung viền Titanium siêu nhẹ, vi xử lý A17 Pro đột phá.",
+    "rating": {
+      "ratingValue": "4.9",
+      "reviewCount": "542"
+    },
+    "specs": {
+      "screen": "Super Retina XDR OLED 6.7 inch 120Hz",
+      "os": "iOS 17",
+      "cameraRear": "48MP, 12MP, 12MP (Zoom 5x)",
+      "cameraFront": "12MP",
+      "cpu": "Apple A17 Pro",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "4422 mAh, Sạc 20W"
+    },
+    "pros": [
+      "Khung viền Titanium nhẹ, bền",
+      "Vi xử lý A17 Pro",
+      "Camera tele 5x"
+    ],
+    "cons": [
+      "Giá thành cao",
+      "Sạc chưa nhanh lắm"
+    ],
+    "faqs": [
+      {
+        "question": "Viền Titanium dễ xước không?",
+        "answer": "Cứng cáp hơn thép nhưng vẫn có thể xước dăm."
+      },
+      {
+        "question": "Máy nóng khi chơi game không?",
+        "answer": "Đã được tối ưu ở các bản iOS mới."
+      },
+      {
+        "question": "Mức giá của iPhone 15 Pro Max có xứng đáng với cấu hình không?",
+        "answer": "Với các công nghệ cốt lõi từ Apple, đây là một mức đầu tư hoàn toàn xứng đáng cho trải nghiệm lâu dài, đặc biệt khi so sánh trong cùng phân khúc."
+      }
+    ]
+  },
+  {
+    "id": "iphone-14-pro-max",
+    "name": "iPhone 14 Pro Max",
+    "brand": "Apple",
+    "price": 27990000,
+    "currency": "VND",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/289700/iphone-14-pro-max-tim-thumb-600x600.jpg",
+    "description": "Siêu phẩm Apple 2022 với camera 48MP và thiết kế Dynamic Island mang tính biểu tượng.",
+    "rating": {
+      "ratingValue": "4.8",
+      "reviewCount": "850"
+    },
+    "specs": {
+      "screen": "Super Retina XDR OLED 6.7 inch 120Hz",
+      "os": "iOS 16 (Hỗ trợ iOS 17)",
+      "cameraRear": "48MP, 12MP, 12MP",
+      "cameraFront": "12MP",
+      "cpu": "Apple A16 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "4323 mAh, Sạc 20W"
+    },
+    "pros": [
+      "Hiệu năng vẫn rất mạnh",
+      "Camera quay video đỉnh cao",
+      "Màn hình độ sáng 2000 nits"
+    ],
+    "cons": [
+      "Hơi nặng (240g)",
+      "Cổng sạc Lightning cũ"
+    ],
+    "faqs": [
+      {
+        "question": "Máy cầm có nặng tay không?",
+        "answer": "Có, viền thép không gỉ khiến máy khá đầm tay."
+      },
+      {
+        "question": "Pin dùng được bao lâu?",
+        "answer": "Sử dụng hỗn hợp có thể kéo dài hơn 1 ngày thoải mái."
+      },
+      {
+        "question": "Mức giá của iPhone 14 Pro Max có xứng đáng với cấu hình không?",
+        "answer": "Với các công nghệ cốt lõi từ Apple, đây là một mức đầu tư hoàn toàn xứng đáng cho trải nghiệm lâu dài, đặc biệt khi so sánh trong cùng phân khúc."
+      }
+    ]
+  },
+  {
+    "id": "iphone-13",
+    "name": "iPhone 13",
+    "brand": "Apple",
+    "price": 15990000,
+    "currency": "VND",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/250258/iphone-13-starlight-1-600x600.jpg",
+    "description": "Lựa chọn quốc dân trong phân khúc, cân bằng tuyệt vời giữa giá cả, hiệu năng và thời lượng pin.",
+    "rating": {
+      "ratingValue": "4.8",
+      "reviewCount": "1200"
+    },
+    "specs": {
+      "screen": "Super Retina XDR OLED 6.1 inch 60Hz",
+      "os": "iOS 15",
+      "cameraRear": "12MP, 12MP",
+      "cameraFront": "12MP",
+      "cpu": "Apple A15 Bionic",
+      "ram": "4GB",
+      "storage": "128GB",
+      "battery": "3240 mAh, Sạc 20W"
+    },
+    "pros": [
+      "Mức giá dễ tiếp cận",
+      "Chip A15 còn rất mượt",
+      "Thiết kế tai thỏ gọn hơn"
+    ],
+    "cons": [
+      "Màn hình 60Hz",
+      "Không có camera Tele"
+    ],
+    "faqs": [
+      {
+        "question": "Chơi game nặng có giật lag không?",
+        "answer": "A15 Bionic vẫn xử lý mượt mà hầu hết game hiện hành."
+      },
+      {
+        "question": "Còn được cập nhật iOS bao lâu?",
+        "answer": "Apple thường hỗ trợ cập nhật từ 5-6 năm, nên iPhone 13 vẫn an tâm dùng lâu dài."
+      },
+      {
+        "question": "Mức giá của iPhone 13 có xứng đáng với cấu hình không?",
+        "answer": "Với các công nghệ cốt lõi từ Apple, đây là một mức đầu tư hoàn toàn xứng đáng cho trải nghiệm lâu dài, đặc biệt khi so sánh trong cùng phân khúc."
+      }
+    ]
+  },
+  {
+    "id": "galaxy-s23-fe",
+    "name": "Samsung Galaxy S23 FE 5G",
+    "brand": "Samsung",
+    "price": 13990000,
+    "currency": "VND",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/306994/samsung-galaxy-s23-fe-mint-thumb-600x600.jpg",
+    "description": "Phiên bản Fan Edition kế thừa thiết kế của dòng S23 cao cấp với mức giá vô cùng hợp lý.",
+    "rating": {
+      "ratingValue": "4.6",
+      "reviewCount": "180"
+    },
+    "specs": {
+      "screen": "Dynamic AMOLED 2X 6.4 inch 120Hz",
+      "os": "Android 13",
+      "cameraRear": "50MP, 12MP, 8MP",
+      "cameraFront": "10MP",
+      "cpu": "Exynos 2200",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4500 mAh, Sạc 25W"
+    },
+    "pros": [
+      "Hoàn thiện kính và viền kim loại cao cấp",
+      "Camera chụp tốt trong tầm giá",
+      "Hỗ trợ chuẩn kháng nước IP68"
+    ],
+    "cons": [
+      "Viền màn hình khá dày",
+      "Exynos 2200 chơi game nặng dễ nóng"
+    ],
+    "faqs": [
+      {
+        "question": "Mặt lưng nhám hay bóng?",
+        "answer": "Mặt lưng kính bóng tạo cảm giác sang trọng."
+      },
+      {
+        "question": "Pin dùng được một ngày không?",
+        "answer": "Đủ cho các tác vụ làm việc cơ bản và giải trí nhẹ."
+      },
+      {
+        "question": "Mức giá của Samsung Galaxy S23 FE 5G có xứng đáng với cấu hình không?",
+        "answer": "Với các công nghệ cốt lõi từ Samsung, đây là một mức đầu tư hoàn toàn xứng đáng cho trải nghiệm lâu dài, đặc biệt khi so sánh trong cùng phân khúc."
+      }
+    ]
+  },
+  {
+    "id": "iphone-12-pro-max",
+    "name": "iPhone 12 Pro Max",
+    "brand": "Apple",
+    "price": 12990000,
+    "currency": "VND",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/213033/iphone-12-pro-max-xanh-duong-new-600x600-600x600.jpg",
+    "description": "Siêu phẩm 2020 với thiết kế vuông vức hoài cổ, hỗ trợ 5G và hệ thống camera cải tiến mạnh.",
+    "rating": {
+      "ratingValue": "4.7",
+      "reviewCount": "2100"
+    },
+    "specs": {
+      "screen": "OLED 6.7 inch 60Hz",
+      "os": "iOS 14",
+      "cameraRear": "12MP, 12MP, 12MP",
+      "cameraFront": "12MP",
+      "cpu": "Apple A14 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "3687 mAh, Sạc 20W"
+    },
+    "pros": [
+      "Thiết kế sang trọng, nam tính",
+      "Hỗ trợ 5G"
+    ],
+    "cons": [
+      "Màn hình chỉ 60Hz",
+      "Máy khá nặng"
+    ],
+    "faqs": [
+      {
+        "question": "Máy ra mắt 2020 còn dùng tốt không?",
+        "answer": "Vẫn cực mượt và được Apple hỗ trợ cập nhật lâu dài."
+      },
+      {
+        "question": "Mức giá của iPhone 12 Pro Max có xứng đáng với cấu hình không?",
+        "answer": "Với các công nghệ cốt lõi từ Apple, đây là một mức đầu tư hoàn toàn xứng đáng cho trải nghiệm lâu dài, đặc biệt khi so sánh trong cùng phân khúc."
+      },
+      {
+        "question": "Chế độ bảo hành của iPhone 12 Pro Max như thế nào?",
+        "answer": "Sản phẩm được bảo hành chính hãng 12 tháng tại tất cả các trung tâm bảo hành ủy quyền của Apple trên toàn quốc."
+      }
+    ]
+  },
+  {
+    "id": "galaxy-s20-ultra",
+    "name": "Samsung Galaxy S20 Ultra",
+    "brand": "Samsung",
+    "price": 7990000,
+    "currency": "VND",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/217937/samsung-galaxy-s20-ultra-600x600-1-600x600.jpg",
+    "description": "Kỷ nguyên zoom 100x bắt đầu từ đây (2020), màn hình 120Hz mượt mà.",
+    "rating": {
+      "ratingValue": "4.5",
+      "reviewCount": "1540"
+    },
+    "specs": {
+      "screen": "Dynamic AMOLED 2X 6.9 inch 120Hz",
+      "os": "Android 10",
+      "cameraRear": "108MP, 48MP, 12MP",
+      "cameraFront": "40MP",
+      "cpu": "Exynos 990",
+      "ram": "12GB",
+      "storage": "128GB",
+      "battery": "5000 mAh, Sạc 45W"
+    },
+    "pros": [
+      "Zoom không gian 100x",
+      "Màn hình 120Hz đỉnh cao"
+    ],
+    "cons": [
+      "Cụm camera lồi nhiều",
+      "Exynos 990 nóng và hao pin"
+    ],
+    "faqs": [
+      {
+        "question": "S20 Ultra chơi game tốt không?",
+        "answer": "Chơi tốt các game nhẹ, nhưng game nặng máy sẽ mau nóng."
+      },
+      {
+        "question": "Mức giá của Samsung Galaxy S20 Ultra có xứng đáng với cấu hình không?",
+        "answer": "Với các công nghệ cốt lõi từ Samsung, đây là một mức đầu tư hoàn toàn xứng đáng cho trải nghiệm lâu dài, đặc biệt khi so sánh trong cùng phân khúc."
+      },
+      {
+        "question": "Chế độ bảo hành của Samsung Galaxy S20 Ultra như thế nào?",
+        "answer": "Sản phẩm được bảo hành chính hãng 12 tháng tại tất cả các trung tâm bảo hành ủy quyền của Samsung trên toàn quốc."
+      }
+    ]
+  },
+  {
+    "id": "iphone-13-pro-max",
+    "name": "iPhone 13 Pro Max",
+    "brand": "Apple",
+    "price": 18990000,
+    "currency": "VND",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/230529/iphone-13-pro-max-xanh-la-thumb-600x600.jpg",
+    "description": "Cột mốc đáng nhớ năm 2021 của Apple với thời lượng pin 'trâu' nhất thời đại và màn hình 120Hz ProMotion.",
+    "rating": {
+      "ratingValue": "4.9",
+      "reviewCount": "3200"
+    },
+    "specs": {
+      "screen": "Super Retina XDR OLED 6.7 inch 120Hz",
+      "os": "iOS 15",
+      "cameraRear": "12MP, 12MP, 12MP",
+      "cameraFront": "12MP",
+      "cpu": "Apple A15 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "4352 mAh, Sạc 20W"
+    },
+    "pros": [
+      "Pin cực trâu",
+      "Màn hình 120Hz siêu mượt",
+      "Camera chụp thiếu sáng tốt"
+    ],
+    "cons": [
+      "Tai thỏ vẫn còn",
+      "Máy khá nặng"
+    ],
+    "faqs": [
+      {
+        "question": "Lỗi xanh màn hình có nhiều không?",
+        "answer": "Có rủi ro ở một số lô hàng, bạn nên mua ở nơi có bảo hành uy tín."
+      },
+      {
+        "question": "Mức giá của iPhone 13 Pro Max có xứng đáng với cấu hình không?",
+        "answer": "Với các công nghệ cốt lõi từ Apple, đây là một mức đầu tư hoàn toàn xứng đáng cho trải nghiệm lâu dài, đặc biệt khi so sánh trong cùng phân khúc."
+      },
+      {
+        "question": "Chế độ bảo hành của iPhone 13 Pro Max như thế nào?",
+        "answer": "Sản phẩm được bảo hành chính hãng 12 tháng tại tất cả các trung tâm bảo hành ủy quyền của Apple trên toàn quốc."
+      }
+    ]
+  },
+  {
+    "id": "galaxy-s22-ultra",
+    "name": "Samsung Galaxy S22 Ultra 5G",
+    "brand": "Samsung",
+    "price": 16990000,
+    "currency": "VND",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg",
+    "description": "Sự kết hợp hoàn hảo của dòng S và Note, hồi sinh khe cắm bút S-Pen năm 2022.",
+    "rating": {
+      "ratingValue": "4.8",
+      "reviewCount": "1950"
+    },
+    "specs": {
+      "screen": "Dynamic AMOLED 2X 6.8 inch 120Hz",
+      "os": "Android 12",
+      "cameraRear": "108MP, 10MP, 10MP, 12MP",
+      "cameraFront": "40MP",
+      "cpu": "Snapdragon 8 Gen 1",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000 mAh, Sạc 45W"
+    },
+    "pros": [
+      "Có sẵn khe S-Pen",
+      "Thiết kế Note huyền thoại",
+      "Chip Snapdragon cho thị trường VN"
+    ],
+    "cons": [
+      "Chip Gen 1 vẫn khá nóng",
+      "Pin hao nhanh"
+    ],
+    "faqs": [
+      {
+        "question": "Màu đỏ Burgundy ở ngoài đẹp không?",
+        "answer": "Màu đỏ Burgundy thực tế trầm và rất sang trọng, cực kỳ được yêu thích."
+      },
+      {
+        "question": "Mức giá của Samsung Galaxy S22 Ultra 5G có xứng đáng với cấu hình không?",
+        "answer": "Với các công nghệ cốt lõi từ Samsung, đây là một mức đầu tư hoàn toàn xứng đáng cho trải nghiệm lâu dài, đặc biệt khi so sánh trong cùng phân khúc."
+      },
+      {
+        "question": "Chế độ bảo hành của Samsung Galaxy S22 Ultra 5G như thế nào?",
+        "answer": "Sản phẩm được bảo hành chính hãng 12 tháng tại tất cả các trung tâm bảo hành ủy quyền của Samsung trên toàn quốc."
+      }
+    ]
+  },
+  {
+    "id": "iphone-12",
+    "name": "iPhone 12",
+    "brand": "Apple",
+    "price": 10590000,
+    "currency": "VND",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-la-new-2-600x600.jpg",
+    "description": "Bản tiêu chuẩn năm 2020 mở đầu cho kỷ nguyên thiết kế phẳng và kết nối mạng 5G của Apple.",
+    "rating": {
+      "ratingValue": "4.6",
+      "reviewCount": "1700"
+    },
+    "specs": {
+      "screen": "Super Retina XDR OLED 6.1 inch 60Hz",
+      "os": "iOS 14",
+      "cameraRear": "12MP, 12MP",
+      "cameraFront": "12MP",
+      "cpu": "Apple A14 Bionic",
+      "ram": "4GB",
+      "storage": "64GB",
+      "battery": "2815 mAh, Sạc 20W"
+    },
+    "pros": [
+      "Thiết kế đẹp, nhẹ",
+      "Màn hình OLED chất lượng"
+    ],
+    "cons": [
+      "Pin khá yếu",
+      "Bản base chỉ có 64GB"
+    ],
+    "faqs": [
+      {
+        "question": "Máy còn hỗ trợ iOS 17/18 không?",
+        "answer": "Có, máy vẫn được cập nhật mượt mà trên các bản iOS mới nhất."
+      },
+      {
+        "question": "Mức giá của iPhone 12 có xứng đáng với cấu hình không?",
+        "answer": "Với các công nghệ cốt lõi từ Apple, đây là một mức đầu tư hoàn toàn xứng đáng cho trải nghiệm lâu dài, đặc biệt khi so sánh trong cùng phân khúc."
+      },
+      {
+        "question": "Chế độ bảo hành của iPhone 12 như thế nào?",
+        "answer": "Sản phẩm được bảo hành chính hãng 12 tháng tại tất cả các trung tâm bảo hành ủy quyền của Apple trên toàn quốc."
+      }
+    ]
+  },
+  {
+    "id": "iphone-15-pro-max-new",
+    "name": "iPhone 15 Pro Max 256GB",
+    "brand": "Apple",
+    "price": 34990000,
+    "currency": "VND",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+    "description": "Siêu phẩm cao cấp nhất của Apple hiện nay.",
+    "rating": {
+      "ratingValue": "4.9",
+      "reviewCount": "1000"
+    },
+    "specs": {
+      "screen": "OLED 6.7 inch",
+      "os": "iOS 17",
+      "cameraRear": "48MP, 12MP, 12MP",
+      "cameraFront": "12MP",
+      "cpu": "Apple A17 Pro",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "4422 mAh"
+    },
+    "pros": [
+      "Khung Titanium",
+      "Camera siêu nét",
+      "Hiệu năng vô đối"
+    ],
+    "cons": [
+      "Giá cao",
+      "Sạc khá chậm"
+    ],
+    "faqs": [
+      {
+        "question": "Khung Titanium có dễ xước không?",
+        "answer": "Bền hơn thép nhưng vẫn có thể xước nếu va đập mạnh."
+      },
+      {
+        "question": "Mức giá của iPhone 15 Pro Max 256GB có xứng đáng với cấu hình không?",
+        "answer": "Với các công nghệ cốt lõi từ Apple, đây là một mức đầu tư hoàn toàn xứng đáng cho trải nghiệm lâu dài, đặc biệt khi so sánh trong cùng phân khúc."
+      },
+      {
+        "question": "Chế độ bảo hành của iPhone 15 Pro Max 256GB như thế nào?",
+        "answer": "Sản phẩm được bảo hành chính hãng 12 tháng tại tất cả các trung tâm bảo hành ủy quyền của Apple trên toàn quốc."
+      }
+    ]
+  }
+]

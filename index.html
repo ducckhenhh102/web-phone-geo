@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang chủ - TechStore</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="home">
+    <header class="site-header">
+        <div class="container nav-wrapper">
+            <a href="index.html" class="logo"><img src="images/logo.svg" alt="TechStore"></a>
+            <button id="menu-toggle" class="menu-toggle">☰</button>
+            <nav class="main-nav" id="main-nav">
+                <a href="index.html">Trang chủ</a>
+                <a href="products.html">Sản phẩm</a>
+                <a href="brands.html">Hãng</a>
+                <a href="blog.html">Blog</a>
+                <a href="about.html">Giới thiệu</a>
+                <a href="contact.html">Liên hệ</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="banner" style="background:#007aff; color:#fff; padding: 3rem; text-align:center; border-radius: 12px; margin-bottom:2rem;">
+            <h2>Khám phá công nghệ tương lai</h2>
+            <p>Mua điện thoại chính hãng giá tốt nhất.</p>
+        </section>
+        <section class="products-section">
+            <h2 class="section-title">Sản phẩm nổi bật</h2>
+            <div id="product-list" class="product-grid">
+                <div class="loading">Đang tải sản phẩm...</div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2026 TechStore. All rights reserved. Tối ưu GEO.</p>
+        </div>
+    </footer>
+    <script src="js/main.js"></script>
+    <script src="js/products.js"></script>
+</body>
+</html>

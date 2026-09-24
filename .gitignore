@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+# Các script tạm thời không cần đưa lên web
+add_phones.js
+download.js
+update_images.js
+update_images2.js
+update_images3.js
+filter_phones.js
+update_faqs.js
+revert_images.js
