@@ -39,7 +39,7 @@ function renderProductList(products) {
     products.forEach(product => {
         const priceFmt = formatCurrency(product.price, product.currency);
         const card = document.createElement('a');
-        card.href = `product-detail.html?id=${product.id}`;
+        card.href = product.id === 'iphone-14-pro-max' ? 'iphone-14-pro-max.html' : `product-detail.html?id=${product.id}`;
         card.className = 'product-card';
         card.innerHTML = `
             <img src="${product.image}" alt="${product.name}">
